@@ -108,4 +108,3 @@ model Payment {
   updatedAt      DateTime @updatedAt
 }
 
-
