@@ -22,4 +22,3 @@ export async function getTickets(req: AuthenticatedRequest, res: Response) {
     return res.sendStatus(StatusCodes.NO_CONTENT);
   }
 }
-
