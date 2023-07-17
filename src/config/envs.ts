@@ -12,4 +12,3 @@ export function loadEnv() {
   const currentEnvs = dotenv.config({ path });
   dotenvExpand.expand(currentEnvs);
 }
-oiii
